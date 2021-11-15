@@ -54,26 +54,26 @@
 ![gambar 7](labspy02/ss/ss4.png)
 <p> kemudian run, masukan nilai A,B,C (8,5,3) . maka hasil run seperti berikut<p>
 
-![gambar 8](labs02/ss/ss5.png)
+![gambar 8](labspy02/ss/ss5.png)
 <p> hasil run adalah benar karna bilangan B (5) ditambah bilangan c (3) adalah bilangan A (8) <p>
 
 <p> flowchartnya seperti berikut <p>
 
-![gambar 9](labs02/ss/ss10.png)
+![gambar 9](labspy02/ss/ss10.png)
 
 <h1> Latihan 4 <h1>
 <h1> Program mencari nilai terbesar dari 3 bilangan yang diinputkan <h1>
 <p> program sederhana dengan input 3 buah bilangan, dari ketiga bilangan tersebut tampilkan bilangan terbesarnya dengan menggunakan statemen if <p>
 <p> berikut scriptnya <p>
 
-![gambar 10](labs02/ss/ss7.png)
+![gambar 10](labspy02/ss/ss7.png)
 <p> kemudian run, masukan nilai a,b,c misal 9,4,7 . kemudian program mencari nilai terbesarnya. hasil run seperti berikut.<p>
 
-![gambar 11](labs02/ss/ss8.png)
+![gambar 11](labspy02/ss/ss8.png)
 <p> nilai terbesar adalah 9 <P>
 <p> flowchartnya seperti berikut <p>
 
-![gambar 12](labs02/ss/ss11.png)
+![gambar 12](labspy02/ss/ss11.png)
 
 
 
