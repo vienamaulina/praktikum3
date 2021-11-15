@@ -75,6 +75,48 @@
 
 ![gambar 12](labspy02/ss/ss11.png)
 
+## Labspy03
+
+<h1> Latihan 1 <h1>
+<h1> Menampilkan n bilangan acak yang lebih kecil dari 0.5 <h1>
+<p> buat script seperti berikut <p>
+
+![gambar 13](labspy03/ss/ss1.png)
+<p> kemudian run, masukan nilai N, misal 8 maka hasil run seperti berikut <p>
+
+![gambar 14](labspy03/ss/ss2.png)
+<p> flowchartnya seperti berikut <p>
+
+![gambar 15](labspy03/ss/ss7.png)
+
+<h1> Latihan 2 <h1>
+<h1> Program menampilkan terbesar dari n <h1>
+<p> program ini menampilkan bilangan terbesar dari n buah data yang diinputkan. masukan angka 0 untuk berhenti <p>
+<p> buat program seperti berikut <p>
+
+![gambar 16](labspy03/ss/ss3.png)
+kemudian run, masukan bilangan. jika memasukan bilangan 0, maka program berhenti mengulang dan menghasilkan output seperti berikut
+
+![gambar 17](labspy03/ss/ss4.png)
+
+<p> flowchartnya seperti berikut <p>
+
+![gambar 18](labspy03/ss/ss8.png)
+
+<h1> program 1 <h1>
+<h1> program laba investasi <h1>
+<p> Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan modal 100 juta. pada bulan pertama dan kedua belum mendapatkan laba. pada bulan ketiga baru mulai mendapatlan laba sebesar 1% dan pada bulan kelima pendapatan meningkat 5%, selanjutnya pada bulan ke-8 mengalammi penurunan keunrungan sebesar 2% sehingga laba menjadi 3%. hitung total keuntungan selama 8 bulan berjalan usahanya.<p>
+<p> buat script seperti berikut <p>
+
+![gambar 19](labspy03/ss/ss5.png)
+<p> kemudian run, masukan uang muka <p>
+<p> maka hasilnya seperti berikut <p>
+
+![gambar 20](labspy03/ss/ss6.png)
+<p> flowchartnya seperti berikut <p>
+
+![gambar 21](labspy03/ss/ss9.png)
+
 
 
 
