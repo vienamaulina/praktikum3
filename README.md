@@ -168,7 +168,7 @@ kemudian run, masukan bilangan. jika memasukan bilangan 0, maka program berhenti
 ![gambar 31](ss/ss8.png)
 <p> flowchartnya seperti berikut <p>
 
-![gambar 32](ss/ss1.png)
+![gambar 32](ss/ss11.png)
 
 <p> SEMOGA BERMANFAAT <P>
 <P> TERIMAKASIH <P>
