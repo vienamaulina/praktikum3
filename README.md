@@ -75,7 +75,7 @@
 
 ![gambar 12](labspy02/ss/ss11.png)
 
-## Labspy03
+# Labspy03
 
 <h1> Latihan 1 <h1>
 <h1> Menampilkan n bilangan acak yang lebih kecil dari 0.5 <h1>
@@ -116,6 +116,62 @@ kemudian run, masukan bilangan. jika memasukan bilangan 0, maka program berhenti
 <p> flowchartnya seperti berikut <p>
 
 ![gambar 21](labspy03/ss/ss9.png)
+
+# Praktikum 3
+<h1> Latihan 1 <h1>
+<h1> Program menentukan nilai terbesar dari dua bilangan yang diinputkan <h1>
+<p> Program sederhana dengan input 2 buah bilangan, kemudian tentukan bilangan terbesar dari kedua bilangan tersebut menggunakan statement if <p>
+<p> berikut script nya <p>
+
+![gambar 22](ss/ss1.png)
+<p> kemudian run, masukan 2 bilangan, maka program akan menentukan nilai terbesar dari 2 bilangan tersebut. misal nilai pertama 73, nilai kedua 91. kemudian enter dan hasilnya seperti ini. <p>
+
+![gambar 23](ss/ss2.png)
+<p> hasilnya adalah 91 <p>
+<p> flowchartnya seperti berikut <p>
+
+![gambar 24](ss/ss9.png)
+
+<h1> Latihan 2 <h1>
+<h1> Program mengurutkan angka dari yang terkecil sampai terbesar <h1>
+<p> Program ini untuk mengurutkan data berdasarkan input sejumlah data , kemudian tampilkan hasilnya secara berurutan mulai dari data terkecil <p>
+<p> berikut scriptnya <p>
+
+![gambar 25](ss/ss3.png)
+<p>pada for i in range (5) itu adalah pengulangan sampai berapakali menginputkan data <p>
+<p> kemudian run, masukan 5 angka <p>
+<p> misal 83,51,93,62,41 <p>
+<p> hasil run seperti berikut <p>
+
+![gambar 26](ss/ss4.png)
+<p> flowchartnya seperti berikut <p>
+
+![gambar 27](ss/ss10.png)
+
+<h1> Latihan 3 <h1>
+<h1> Program perulangan bertingkat (nested) for <h1>
+<p> berikut scriptnya <p>
+
+![gambar 28](ss/ss5.png)
+<p> maka hasil run tersebut seperti berikut <p>
+
+![gambar 29](ss/ss6.png)
+
+<h1> Latihan 4<h1>
+<h1> Program menampilkan n  bilangan acak yang lebih kecil dari 0.5 <h1>
+<p> berikut scriptnya <p>
+
+![gambar 30](ss/ss7.png)
+<p> kemudian run, masukan jumlah n <p>
+<p> maka hasilnya seperti berikut <p>
+
+![gambar 31](ss/ss8.png)
+<p> flowchartnya seperti berikut <p>
+
+![gambar 32](ss/ss1.png)
+
+<p> SEMOGA BERMANFAAT <P>
+<P> TERIMAKASIH <P>
 
 
 
